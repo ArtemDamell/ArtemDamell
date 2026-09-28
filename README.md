@@ -39,8 +39,8 @@ My professional work includes:
 **TeslaRent**  
 Blazor-based car rental application with Web API, Entity Framework, payment integration and separate administrative and client-side applications.
 
-**BaseAPICourse**  
-ASP.NET Core / Web API project covering application layers, repositories, Entity Framework, authentication and API development.
+**AspNetCoreWebApiSamples**  
+ASP.NET Core Web API samples covering EF Core, JWT authentication, API versioning, Swagger, IdentityServer, Blazor clients, and layered application structure.
 
 **OnlineStoreBlazorServer**  
 Blazor Server online store with integrated payment functionality.
