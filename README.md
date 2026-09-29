@@ -43,10 +43,10 @@ Blazor-based car rental application with Web API, Entity Framework, payment inte
 ASP.NET Core Web API samples covering EF Core, JWT authentication, API versioning, Swagger, IdentityServer, Blazor clients, and layered application structure.
 
 **BlazorServerOnlineStore**  
-Blazor Server online store with integrated payment functionality.
+Full-featured online store built with Blazor Server, Entity Framework, authentication, shopping cart, and PayPal payment integration.
 
 **AspNetCoreMvcStore**  
-ASP.NET Core MVC online store with a content management system.
+ASP.NET Core MVC online store with administrative CMS functionality, EF Core, Identity, shopping cart, user management, and PayPal integration.
 
 ---
 
