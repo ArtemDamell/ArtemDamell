@@ -45,7 +45,7 @@ ASP.NET Core Web API samples covering EF Core, JWT authentication, API versionin
 **BlazorServerOnlineStore**  
 Blazor Server online store with integrated payment functionality.
 
-**CoreStoreMVC**  
+**AspNetCoreMvcStore**  
 ASP.NET Core MVC online store with a content management system.
 
 ---
